@@ -1,0 +1,7 @@
+Cod Pago;Descripción;Descripción Abreviada;Categoría de pago;Descuento por método de pago
+101;Efectivo;Efec;Efectivo;15%
+102;Tajeta Debito Visa;TD Visa;Tarjeta;8%
+103;Tajeta Debito Master;TD Master;Tarjeta;5%
+104;Tarjera Credito Visa;TC Visa;Tarjeta;8%
+105;Tarjera Credito Master;TC Master;Tarjeta;5%
+106;America Express;AE;Tarjeta;2%

@@ -1,0 +1,337 @@
+id cliente;DNI ;Nombre completo ;Número de contacto ;Email ;Género;Ocupación;Educación;Descuento ;Código cliente frecuente
+1;26932735;Sophia-Johnson;808-5455-51;s.johnson@randatmail.com;F;Fotógrafo;Doctorado;39;1377
+2;15712940;Aiden-Ross;925-4430-60;a.ross@randatmail.com;F;Cocinero;Maestría;48;4114
+3;20085574;Alina-Morris;978-5048-37;a.morris@randatmail.com;F;Productor;Secundaria;80;3807
+4;31040898;Fiona-Carter;364-8046-50;f.carter@randatmail.com;F;Artista;Secundaria;48;1254
+5;35960020;Aiden-Perkins;085-7441-77;a.perkins@randatmail.com;M;Cantante;Secundaria;83;2775
+6;15808652;Lilianna-Sullivan;994-2464-31;l.sullivan@randatmail.com;F;Auditor;Primario;74;3974
+7;33181555;Alina-Miller;179-2526-57;a.miller@randatmail.com;M;Abogado;Maestría;37;1449
+8;19774637;Deanna-Dixon;772-7733-23;d.dixon@randatmail.com;F;Botánico;Secundaria;84;4252
+9;26173641;Amy-Richards;256-7173-81;a.richards@randatmail.com;F;Compositor;Primario;100;2046
+10;18746454;Belinda-Hunt;257-9275-27;b.hunt@randatmail.com;M;Matemático;Doctorado;58;1358
+11;31272304;Stella-Jones;749-3579-10;s.jones@randatmail.com;F;Historiador;Maestría;94;3098
+12;17388806;Spike-Brooks;384-3980-49;s.brooks@randatmail.com;M;Medicoo;Secundaria;87;3374
+13;17036783;Chloe-Sullivan;113-5018-36;c.sullivan@randatmail.com;F;Científico;Secundaria;20;2377
+14;20308647;Adele-Scott;449-7411-81;a.scott@randatmail.com;F;Economistaa;Secundaria;48;3147
+15;35477328;Ryan-Evans;094-2057-09;r.evans@randatmail.com;M;Fotógrafo;Secundaria;6;2996
+16;19948907;Brianna-Howard;476-4238-73;b.howard@randatmail.com;M;Geólogo;Secundaria;26;1569
+17;22276708;Ada-Craig;252-6301-36;a.craig@randatmail.com;F;Veterinario;Maestría;40;4463
+18;24203671;William-Higgins;583-5748-03;w.higgins@randatmail.com;F;Carpintero;Doctorado;9;3041
+19;16597185;Sabrina-Edwards;130-7564-00;s.edwards@randatmail.com;M;Auditor;Secundaria;2;4409
+20;26177040;Adrian-Phillips;993-3296-95;a.phillips@randatmail.com;M;Compositor;Doctorado;71;4032
+21;30671611;David-Edwards;697-6521-82;d.edwards@randatmail.com;M;Agrónomo;Doctorado;48;4665
+22;27175714;Hailey-Brown;299-0229-79;h.brown@randatmail.com;F;Ingeniero;Doctorado;100;3537
+23;15941090;Isabella-Grant;511-7238-46;i.grant@randatmail.com;M;Manager;Secundaria;47;1055
+24;24172027;Samantha-West;331-3227-83;s.west@randatmail.com;F;Químico;Maestría;32;2123
+25;19894030;Nicholas-Robinson;799-1706-51;n.robinson@randatmail.com;M;Oficial De Policía;Secundaria;55;4518
+26;23967714;Joyce-Farrell;144-5109-64;j.farrell@randatmail.com;F;Medicoo;Secundaria;65;4534
+27;24790916;Daniel-Rogers;192-6112-22;d.rogers@randatmail.com;M;Físico;Maestría;83;5188
+28;22034355;Heather-Brown;056-2325-32;h.brown@randatmail.com;F;Escritor;Primario;10;1647
+29;31199610;Alina-Andrews;490-4063-19;a.andrews@randatmail.com;F;Diseñador De Interiores;Doctorado;46;3530
+30;34433349;Miranda-Higgins;203-3311-59;m.higgins@randatmail.com;F;Panadero;Secundaria;60;3931
+31;32614068;Joyce-Riley;240-5112-70;j.riley@randatmail.com;F;Cocinero;Primario;81;3682
+32;34324970;Charlotte-Harper;240-4843-99;c.harper@randatmail.com;F;Escritor;Doctorado;36;1242
+33;20304456;Edith-Elliott;766-9298-94;e.elliott@randatmail.com;F;Compositor;Secundaria;29;3954
+34;21011286;Emily-Casey;993-7680-95;e.casey@randatmail.com;F;Matemático;Secundaria;6;1095
+35;21801056;Dexter-Myers;170-5177-47;d.myers@randatmail.com;M;Carpintero;Maestría;27;2723
+36;18190039;Annabella-Johnson;280-7958-14;a.johnson@randatmail.com;M;Bailarín;Secundaria;62;2317
+37;25553447;Henry-Watson;203-4355-42;h.watson@randatmail.com;M;Economistaa;Secundaria;38;5236
+38;21435968;Mike-Thompson;370-5310-60;m.thompson@randatmail.com;F;Físico;Secundaria;4;3852
+39;32454951;Lyndon-Baker;968-9142-25;l.baker@randatmail.com;F;Cantante;Maestría;42;1296
+40;30948086;Alexander-Walker;217-7836-81;a.walker@randatmail.com;M;Periodista;Secundaria;73;3177
+41;34207137;Dainton-Walker;099-1390-07;d.walker@randatmail.com;M;Cocinero;Secundaria;59;4033
+42;19156254;Sienna-Richards;281-7542-41;s.richards@randatmail.com;F;Físico;Primario;67;1747
+43;18351444;Kimberly-Murphy;236-7769-03;k.murphy@randatmail.com;F;Carpintero;Secundaria;31;4899
+44;18013654;Sarah-Morgan;371-2264-36;s.morgan@randatmail.com;F;Astrónomo;Maestría;24;1681
+45;17839639;Camila-Craig;534-3916-57;c.craig@randatmail.com;F;Veterinario;Secundaria;56;2904
+46;25402939;Catherine-Ross;521-4682-82;c.ross@randatmail.com;F;Diseñador De Interiores;Secundaria;12;4676
+47;32224856;Abigail-Ryan;352-3428-51;a.ryan@randatmail.com;F;Asegurador;Secundaria;59;5076
+48;15316881;Gianna-Carroll;521-2227-27;g.carroll@randatmail.com;M;Veterinario;Primario;36;2244
+49;23872898;Arnold-Barrett;226-7904-15;a.barrett@randatmail.com;M;Periodista;Primario;96;1111
+50;35042323;Tiana-Higgins;769-9102-52;t.higgins@randatmail.com;F;Artista;Secundaria;77;5360
+51;25851599;Arnold-Smith;521-5658-01;a.smith@randatmail.com;M;Astrónomo;Doctorado;85;4986
+52;20320225;Eric-Bennett;324-0997-07;e.bennett@randatmail.com;M;Diseñador De Moda;Secundaria;23;1363
+53;25619952;Kelsey-Wells;932-7121-63;k.wells@randatmail.com;F;Diseñador De Interiores;Primario;66;3025
+54;21458826;Adrian-Andrews;417-9357-17;a.andrews@randatmail.com;M;Químico;Maestría;57;5108
+55;24075184;Cadie-Myers;175-2156-43;c.myers@randatmail.com;F;Mecánico;Secundaria;14;5340
+56;27964993;Amber-Warren;366-2487-34;a.warren@randatmail.com;F;Joyero;Doctorado;12;4526
+57;30318650;Ellia-Mason;060-6286-38;e.mason@randatmail.com;F;Químico;Doctorado;99;2031
+58;21447589;Madaline-Baker;911-5536-80;m.baker@randatmail.com;F;Diseñador Grafico;Primario;72;1790
+59;16118561;Charlotte-Reed;896-9563-62;c.reed@randatmail.com;F;Veterinario;Secundaria;69;3802
+60;31560183;Sabrina-Wright;208-5907-64;s.wright@randatmail.com;F;Peluquero;Maestría;38;1306
+61;27166380;Sydney-Jones;952-3256-19;s.jones@randatmail.com;M;Peluquero;Maestría;48;2939
+62;22429699;Alford-Douglas;456-4904-33;a.douglas@randatmail.com;M;Carpintero;Maestría;28;3620
+63;27420095;Andrew-Kelley;086-5143-91;a.kelley@randatmail.com;M;Piloto De Avion;Secundaria;74;4909
+64;19488369;Belinda-Ryan;251-5220-11;b.ryan@randatmail.com;F;Trabajador Social;Doctorado;5;4710
+65;29975132;Emma-Morgan;193-0992-90;e.morgan@randatmail.com;M;Electricista;Doctorado;13;3713
+66;23461137;Garry-Harris;686-1764-72;g.harris@randatmail.com;M;Diseñador Grafico;Secundaria;62;4707
+67;16794543;Gianna-Stevens;138-6615-34;g.stevens@randatmail.com;F;Mecánico;Primario;22;4202
+68;20136685;Ryan-Cameron;517-9299-65;r.cameron@randatmail.com;M;Peluquero;Primario;21;2921
+69;17514417;Lily-Douglas;236-1248-21;l.douglas@randatmail.com;M;Bioquímico;Primario;58;3162
+70;21613971;Jasmine-Henderson;194-1274-70;j.henderson@randatmail.com;F;Oficial De Policía;Maestría;39;1427
+71;17782939;William-Moore;479-0206-50;w.moore@randatmail.com;M;Diseñador De Interiores;Primario;30;3148
+72;27259031;Albert-Myers;804-1374-08;a.myers@randatmail.com;M;Panadero;Maestría;98;2899
+73;32665454;Kristian-Williams;435-8800-64;k.williams@randatmail.com;F;Meteorólogo;Primario;87;3457
+74;16029332;Isabella-Murphy;041-5066-99;i.murphy@randatmail.com;F;Escritor;Doctorado;27;4421
+75;20467169;Catherine-Miller;247-3145-46;c.miller@randatmail.com;F;Panadero;Secundaria;57;2627
+76;16324722;James-Barnes;082-3982-76;j.barnes@randatmail.com;M;Programador;Secundaria;83;4716
+77;23200697;Eleanor-Bennett;460-3439-50;e.bennett@randatmail.com;F;Geólogo;Secundaria;79;4127
+78;28045239;Tyler-Johnson;602-6194-33;t.johnson@randatmail.com;M;Cocinar;Primario;96;4099
+79;16579123;Edward-Richards;388-0045-59;e.richards@randatmail.com;F;Bailarín;Primario;16;3551
+80;34484605;Alisa-Myers;997-3894-66;a.myers@randatmail.com;F;Bombero;Primario;58;4100
+81;32722514;Charlotte-Holmes;065-9611-32;c.holmes@randatmail.com;F;Panadero;Primario;78;3393
+82;31527714;Sophia-Casey;988-5219-22;s.casey@randatmail.com;F;Electricista;Secundaria;35;4719
+83;31409322;Robert-Ryan;220-5249-42;r.ryan@randatmail.com;F;Geólogo;Secundaria;3;3977
+84;34525477;Abraham-Evans;048-1409-03;a.evans@randatmail.com;F;Productor;Doctorado;51;4115
+85;33431085;Kimberly-Spencer;260-9682-48;k.spencer@randatmail.com;F;Arqueólogo;Primario;27;1002
+86;29692743;Amy-Parker;867-7338-51;a.parker@randatmail.com;F;Diseñador De Moda;Doctorado;43;1344
+87;28880423;Kellan-Crawford;034-0277-86;k.crawford@randatmail.com;M;Asegurador;Secundaria;69;3710
+88;20884566;Leonardo-Clark;021-7173-20;l.clark@randatmail.com;M;Periodista;Maestría;47;3093
+89;24472909;Adison-Roberts;541-4717-52;a.roberts@randatmail.com;F;Meteorólogo;Primario;95;5144
+90;33331144;Myra-Hawkins;607-5720-54;m.hawkins@randatmail.com;M;Peluquero;Primario;86;3577
+91;23962690;Michelle-Bailey;904-6369-45;m.bailey@randatmail.com;F;Peluquero;Secundaria;93;1109
+92;16375870;Kimberly-Lloyd;739-7262-71;k.lloyd@randatmail.com;F;Diseñador De Interiores;Secundaria;8;5078
+93;30029956;Reid-Carter;421-0632-02;r.carter@randatmail.com;F;Cantante;Maestría;26;3337
+94;34635801;Aldus-Morgan;386-1730-60;a.morgan@randatmail.com;F;Panadero;Secundaria;17;4176
+95;26982576;Kelvin-Warren;733-7200-14;k.warren@randatmail.com;M;Agrónomo;Primario;89;3103
+96;32458523;Brooke-Wells;813-1730-27;b.wells@randatmail.com;F;Asegurador;Maestría;91;1641
+97;19075276;Kimberly-Adams;805-4437-94;k.adams@randatmail.com;F;Medicoo;Primario;31;2182
+98;17231361;Alexander-Brooks;085-5535-86;a.brooks@randatmail.com;M;Economistaa;Secundaria;63;3953
+99;30249279;Wilson-Gray;488-1816-48;w.gray@randatmail.com;F;Manager;Doctorado;58;3484
+100;32832772;Caroline-Sullivan;753-8803-06;c.sullivan@randatmail.com;M;Electricista;Maestría;48;4293
+101;31150428;Leonardo-Watson;147-8426-65;l.watson@randatmail.com;M;Diseñador De Moda;Primario;40;4047
+102;24888388;Chloe-Hill;158-1593-21;c.hill@randatmail.com;F;Manager;Secundaria;54;1582
+103;30817804;Michelle-Chapman;927-2647-32;m.chapman@randatmail.com;F;Físico;Doctorado;64;3400
+104;30383531;Frederick-Holmes;196-0692-18;f.holmes@randatmail.com;M;Diseñador Grafico;Secundaria;82;2895
+105;24238433;Byron-Edwards;650-0936-42;b.edwards@randatmail.com;M;Físico;Secundaria;30;4271
+106;20985206;Arnold-Parker;855-4465-03;a.parker@randatmail.com;F;Panadero;Maestría;32;2327
+107;21140029;Lucas-Gibson;426-8388-54;l.gibson@randatmail.com;M;Historiador;Doctorado;42;4544
+108;32934853;Ellia-Carter;980-6444-03;e.carter@randatmail.com;F;Diseñador De Moda;Primario;41;4478
+109;21290262;Ted-Holmes;535-4101-90;t.holmes@randatmail.com;M;Panadero;Secundaria;27;1940
+110;29260009;Derek-Murray;454-2631-06;d.murray@randatmail.com;M;Interpreter;Maestría;21;4388
+111;18852077;Alford-Johnson;670-3360-61;a.johnson@randatmail.com;M;Economistaa;Secundaria;73;5029
+112;35280105;Alan-Owens;273-9336-85;a.owens@randatmail.com;M;Diseñador De Interiores;Primario;12;2142
+113;31036791;Chester-Casey;635-1308-67;c.casey@randatmail.com;M;Meteorólogo;Maestría;66;3359
+114;22145146;Alina-Harris;640-4094-42;a.harris@randatmail.com;F;Carpintero;Maestría;50;4309
+115;18558025;Lyndon-Alexander;115-1796-11;l.alexander@randatmail.com;F;Diseñador De Interiores;Secundaria;6;4682
+116;15682477;Fiona-Ferguson;437-6392-79;f.ferguson@randatmail.com;F;Botánico;Secundaria;83;4695
+117;23525212;Sarah-Hunt;333-4055-70;s.hunt@randatmail.com;M;Actor;Secundaria;18;3681
+118;27683707;William-Murray;780-3863-51;w.murray@randatmail.com;M;Asegurador;Maestría;99;3717
+119;17711065;Lydia-Martin;704-7727-32;l.martin@randatmail.com;F;Floristaa;Secundaria;23;3240
+120;32616661;Miranda-Cooper;441-3273-43;m.cooper@randatmail.com;F;Meteorólogo;Maestría;72;3605
+121;32901623;Sam-Rogers;305-1462-88;s.rogers@randatmail.com;M;Cocinar;Doctorado;96;1923
+122;15195673;Jordan-Smith;121-1935-69;j.smith@randatmail.com;M;Botánico;Secundaria;30;1268
+123;26306169;Lucas-Thomas;499-2005-52;l.thomas@randatmail.com;M;Bombero;Secundaria;29;1500
+124;28924549;Adele-Anderson;378-8395-97;a.anderson@randatmail.com;F;Electricista;Maestría;49;4444
+125;20365457;Amber-Allen;815-1262-57;a.allen@randatmail.com;M;Escritor;Secundaria;36;1930
+126;15453261;Frederick-Bennett;103-9134-37;f.bennett@randatmail.com;M;Cocinero;Maestría;55;3545
+127;29033110;Oscar-Russell;214-8322-95;o.russell@randatmail.com;M;Economista;Doctorado;11;4579
+128;31835987;Sarah-Grant;092-0789-08;s.grant@randatmail.com;F;Medicoo;Secundaria;16;2538
+129;22303345;Cadie-Jones;586-9417-02;c.jones@randatmail.com;F;Arqueólogo;Secundaria;15;4014
+130;21098498;Alina-Elliott;512-6803-89;a.elliott@randatmail.com;F;Escritor;Secundaria;84;2766
+131;28395344;Aida-Thomas;486-0454-34;a.thomas@randatmail.com;F;Químico;Doctorado;2;1613
+132;25767688;Rafael-Owens;242-2368-31;r.owens@randatmail.com;M;Ingeniero;Secundaria;100;5271
+133;33848534;Chloe-Barrett;134-8317-55;c.barrett@randatmail.com;M;Químico;Secundaria;54;3400
+134;23571874;Lana-Morgan;706-2915-15;l.morgan@randatmail.com;F;Artista;Maestría;51;4888
+135;21885518;Aston-Murray;595-2053-69;a.murray@randatmail.com;F;Arquitecto;Doctorado;34;1760
+136;22496278;Honey-Owens;556-3098-41;h.owens@randatmail.com;F;Químico;Doctorado;58;3334
+137;30223166;Oscar-Montgomery;771-0023-75;o.montgomery@randatmail.com;M;Escritor;Secundaria;89;4975
+138;35440155;Alen-Baker;366-0860-59;a.baker@randatmail.com;M;Escritor;Secundaria;85;4418
+139;22264364;Sydney-Payne;053-8236-35;s.payne@randatmail.com;F;Diseñador De Moda;Maestría;76;2411
+140;16531728;James-Murphy;603-8468-06;j.murphy@randatmail.com;F;Medicoo;Secundaria;66;2908
+141;16261075;Adrianna-Murphy;907-1906-70;a.murphy@randatmail.com;M;Profesor;Primario;83;2978
+142;28235950;Anna-Alexander;649-3685-51;a.alexander@randatmail.com;F;Peluquero;Secundaria;13;4725
+143;30102159;Abraham-Ferguson;583-5144-38;a.ferguson@randatmail.com;F;Geólogo;Secundaria;55;2248
+144;21056808;Charlotte-Douglas;242-0938-66;c.douglas@randatmail.com;M;Medico;Secundaria;17;4199
+145;17752627;Sydney-Thomas;447-8448-18;s.thomas@randatmail.com;F;Joyero;Secundaria;8;1848
+146;32185950;Antony-Ellis;197-8361-84;a.ellis@randatmail.com;M;Geólogo;Doctorado;34;2523
+147;30211507;Kirsten-Allen;278-7976-54;k.allen@randatmail.com;F;Piloto De Avion;Doctorado;40;2096
+148;24067563;Frederick-Barnes;357-7910-36;f.barnes@randatmail.com;M;Floristaa;Maestría;32;3086
+149;21698902;Deanna-Robinson;711-3564-05;d.robinson@randatmail.com;F;Trabajador Social;Primario;37;1987
+150;29842822;Lydia-Perry;053-3317-71;l.perry@randatmail.com;F;Vendedor;Secundaria;47;3333
+151;26548348;Belinda-Hawkins;897-0952-22;b.hawkins@randatmail.com;F;Contador;Secundaria;21;2016
+152;17726659;Kristian-Richards;688-3130-69;k.richards@randatmail.com;M;Astrónomo;Secundaria;40;4979
+153;21127050;Jack-Farrell;077-4120-06;j.farrell@randatmail.com;M;Trabajador Social;Primario;4;1391
+154;23261362;Max-Thompson;915-4529-57;m.thompson@randatmail.com;F;Bombero;Secundaria;14;3952
+155;30578410;Albert-Tucker;160-6059-95;a.tucker@randatmail.com;M;Carpintero;Maestría;63;3024
+156;27719740;Emily-Hamilton;593-9965-66;e.hamilton@randatmail.com;M;Conductor;Primario;1;4845
+157;15351633;Fiona-Harper;994-4533-52;f.harper@randatmail.com;M;Asegurador;Doctorado;59;2803
+158;15216474;Melanie-Farrell;805-1173-66;m.farrell@randatmail.com;F;Periodista;Secundaria;92;4141
+159;25661094;Alen-Armstrong;869-8051-45;a.armstrong@randatmail.com;M;Vendedor;Primario;69;4605
+160;31865334;Valeria-Montgomery;623-0344-75;v.montgomery@randatmail.com;F;Trabajador Social;Secundaria;32;2786
+161;29343874;Madaline-Parker;222-9065-23;m.parker@randatmail.com;F;Meteorólogo;Secundaria;13;5367
+162;23735817;Kelvin-Johnston;163-2714-21;k.johnston@randatmail.com;F;Geólogo;Secundaria;27;1075
+163;29222594;Rosie-Allen;072-8425-82;r.allen@randatmail.com;M;Meteorólogo;Doctorado;49;3979
+164;27782194;Michael-Taylor;975-5965-05;m.taylor@randatmail.com;M;Botánico;Doctorado;80;5210
+165;28463822;Dexter-Kelly;480-7589-94;d.kelly@randatmail.com;F;Productor;Maestría;63;2315
+166;34304265;Ryan-Baker;584-3731-98;r.baker@randatmail.com;M;Piloto De Avion;Secundaria;99;4565
+167;32191549;Alexia-Howard;357-9969-34;a.howard@randatmail.com;F;Contador;Secundaria;54;1648
+168;33960463;Vivian-Craig;213-0185-27;v.craig@randatmail.com;F;Cocinar;Doctorado;71;2989
+169;21224193;Jordan-Alexander;366-8873-70;j.alexander@randatmail.com;F;Piloto De Avion;Secundaria;6;1278
+170;28254704;Albert-Brown;767-7037-65;a.brown@randatmail.com;M;Asegurador;Maestría;77;1878
+171;34190673;Fenton-Richardson;319-6018-07;f.richardson@randatmail.com;M;Astrónomo;Secundaria;82;1771
+172;16052709;James-Moore;320-0279-22;j.moore@randatmail.com;F;Medicoo;Doctorado;74;4641
+173;16268968;Michael-Cunningham;593-7152-95;m.cunningham@randatmail.com;M;Contador;Secundaria;15;4783
+174;17684183;Walter-Thompson;796-4346-65;w.thompson@randatmail.com;M;Bioquímico;Primario;7;2057
+175;31940663;Alissa-Myers;561-2984-27;a.myers@randatmail.com;F;Diseñador De Interiores;Secundaria;8;5341
+176;18474272;Oliver-Riley;788-5245-18;o.riley@randatmail.com;F;Abogado;Maestría;34;2243
+177;31060424;Adison-Campbell;733-3004-47;a.campbell@randatmail.com;M;Mecánico;Doctorado;32;1364
+178;34309857;Dominik-Carter;964-2820-05;d.carter@randatmail.com;M;Actor;Doctorado;53;3262
+179;18825768;Tony-Craig;768-4999-94;t.craig@randatmail.com;M;Compositor;Secundaria;6;3829
+180;19611147;Emily-Myers;428-8306-92;e.myers@randatmail.com;F;Geólogo;Secundaria;30;1123
+181;35636181;Thomas-Baker;493-6711-41;t.baker@randatmail.com;M;Meteorólogo;Secundaria;51;1268
+182;21097139;Ned-Payne;493-8190-53;n.payne@randatmail.com;M;Farmacéutico;Secundaria;88;2467
+183;34436115;Kevin-Payne;056-8949-31;k.payne@randatmail.com;M;Actor;Secundaria;97;3007
+184;34295508;William-Cooper;713-6320-45;w.cooper@randatmail.com;F;Asegurador;Secundaria;19;1356
+185;16437123;Justin-Gray;567-4016-82;j.gray@randatmail.com;M;Ingeniero;Secundaria;25;4367
+186;25002225;Maddie-Mitchell;259-4639-12;m.mitchell@randatmail.com;F;Electricista;Secundaria;53;4049
+187;34485941;Ryan-Douglas;893-7747-00;r.douglas@randatmail.com;M;Oficial De Policía;Maestría;60;1258
+188;32356542;Roman-Alexander;169-7723-82;r.alexander@randatmail.com;F;Agrónomo;Secundaria;46;4641
+189;27350629;Miley-Rogers;700-4227-72;m.rogers@randatmail.com;M;Interpreter;Secundaria;98;2020
+190;35120005;Daniel-Farrell;209-0234-12;d.farrell@randatmail.com;F;Medico;Secundaria;47;2118
+191;19638599;Alina-Allen;328-8891-96;a.allen@randatmail.com;F;Programador;Primario;46;2778
+192;31250364;Bruce-Payne;919-5056-69;b.payne@randatmail.com;F;Escritor;Maestría;61;4579
+193;17461538;Mary-Thomas;595-3778-50;m.thomas@randatmail.com;F;Arquitecto;Secundaria;75;4621
+194;20122461;Jordan-Thomas;704-5419-55;j.thomas@randatmail.com;M;Cocinar;Secundaria;13;2910
+195;26060861;Alen-Farrell;800-4814-93;a.farrell@randatmail.com;M;Bioquímico;Doctorado;83;2319
+196;18746318;Ned-Edwards;189-7611-06;n.edwards@randatmail.com;M;Periodista;Primario;51;3052
+197;21326516;Deanna-Taylor;097-3983-64;d.taylor@randatmail.com;F;Cocinero;Secundaria;50;4416
+198;25314597;Kate-Mitchell;053-8058-26;k.mitchell@randatmail.com;F;Químico;Maestría;86;3226
+199;29238318;Arthur-Elliott;812-5260-85;a.elliott@randatmail.com;M;Ingeniero;Primario;12;4025
+200;30811021;Max-Rogers;256-7771-92;m.rogers@randatmail.com;M;Artista;Primario;85;3001
+201;27173542;Fenton-Johnson;717-3072-44;f.johnson@randatmail.com;M;Abogado;Maestría;70;4914
+202;21547253;Eric-Crawford;707-0793-69;e.crawford@randatmail.com;M;Asegurador;Secundaria;43;5288
+203;26162289;Lyndon-Wright;812-4748-98;l.wright@randatmail.com;M;Artista;Doctorado;31;4933
+204;33035615;Catherine-Hill;684-7705-13;c.hill@randatmail.com;F;Cantante;Secundaria;68;3476
+205;34902739;Alford-Scott;356-1941-21;a.scott@randatmail.com;M;Bailarín;Maestría;63;2923
+206;34566026;Alen-Johnston;340-2272-86;a.johnston@randatmail.com;F;Peluquero;Primario;31;4966
+207;34071650;Aida-West;653-1657-66;a.west@randatmail.com;F;Historiador;Primario;84;3368
+208;21744170;Oscar-Phillips;348-5317-78;o.phillips@randatmail.com;M;Medicoo;Secundaria;57;1057
+209;29474025;Adele-Phillips;943-3516-47;a.phillips@randatmail.com;M;Bioquímico;Primario;78;2991
+210;24220878;Florrie-Watson;561-1949-16;f.watson@randatmail.com;M;Químico;Primario;48;2012
+211;30816932;Roman-Campbell;565-3082-40;r.campbell@randatmail.com;F;Ingeniero;Maestría;67;2163
+212;16216708;Haris-Fowler;438-1122-44;h.fowler@randatmail.com;M;Medicoo;Primario;56;4936
+213;15389189;Marcus-Farrell;270-6833-22;m.farrell@randatmail.com;M;Meteorólogo;Maestría;1;5129
+214;22382172;Mike-Edwards;101-4202-91;m.edwards@randatmail.com;M;Programador;Doctorado;15;5102
+215;20534706;Alberta-Chapman;176-1190-30;a.chapman@randatmail.com;F;Matemático;Maestría;15;2342
+216;15927474;Alexander-Parker;740-6261-65;a.parker@randatmail.com;M;Ingeniero;Secundaria;19;4993
+217;35602058;Brooke-Mitchell;567-2373-82;b.mitchell@randatmail.com;F;Botánico;Doctorado;61;2671
+218;32719007;Florrie-Stevens;492-0260-79;f.stevens@randatmail.com;M;Vendedor;Doctorado;8;3732
+219;32019391;Arthur-Ellis;334-4242-32;a.ellis@randatmail.com;F;Panadero;Doctorado;10;3477
+220;31156885;Owen-Clark;247-2509-19;o.clark@randatmail.com;M;Auditor;Primario;100;1062
+221;19551038;Dominik-Farrell;263-8732-46;d.farrell@randatmail.com;M;Diseñador De Moda;Secundaria;13;2130
+222;34747446;Daisy-Harrison;468-2189-61;d.harrison@randatmail.com;F;Asegurador;Secundaria;20;4791
+223;21419317;Maya-Sullivan;451-0460-06;m.sullivan@randatmail.com;F;Astrónomo;Secundaria;69;1240
+224;29162725;Kelvin-Reed;450-9227-90;k.reed@randatmail.com;F;Trabajador Social;Maestría;83;4490
+225;27524301;Maya-Cole;771-9654-90;m.cole@randatmail.com;F;Bailarín;Secundaria;95;1979
+226;16707277;Grace-Robinson;852-9390-80;g.robinson@randatmail.com;F;Veterinario;Secundaria;24;2019
+227;31113428;Miley-Craig;268-7422-54;m.craig@randatmail.com;M;Geólogo;Doctorado;27;1302
+228;35907401;Alissa-Martin;270-6581-98;a.martin@randatmail.com;F;Contador;Secundaria;67;1931
+229;22425865;Maya-Payne;822-2031-58;m.payne@randatmail.com;F;Conductor;Secundaria;69;1494
+230;35878067;Julia-Mitchell;888-5478-31;j.mitchell@randatmail.com;F;Electricista;Secundaria;9;1937
+231;26894207;Jack-Nelson;298-0064-25;j.nelson@randatmail.com;M;Diseñador Grafico;Primario;41;1020
+232;30364885;Adele-Jones;586-0679-03;a.jones@randatmail.com;F;Cocinar;Secundaria;41;4118
+233;18600847;Alissa-Nelson;026-3043-19;a.nelson@randatmail.com;F;Joyero;Doctorado;74;2134
+234;23430097;Emily-West;584-2171-43;e.west@randatmail.com;F;Arquitecto;Maestría;52;3730
+235;21283343;Victoria-Cole;746-4365-43;v.cole@randatmail.com;F;Cantante;Doctorado;2;3671
+236;33436978;Sydney-Gibson;177-9851-16;s.gibson@randatmail.com;M;Artista;Doctorado;93;1701
+237;31657469;Maria-Ryan;680-9251-05;m.ryan@randatmail.com;F;Geólogo;Secundaria;90;1706
+238;35464018;Evelyn-Farrell;841-3522-80;e.farrell@randatmail.com;F;Panadero;Doctorado;73;4682
+239;25200065;Anna-Edwards;487-5305-71;a.edwards@randatmail.com;F;Electricista;Primario;35;2327
+240;20909094;Sarah-Wilson;929-7109-76;s.wilson@randatmail.com;F;Medicoo;Secundaria;29;1810
+241;34628985;Harold-Owens;942-4781-78;h.owens@randatmail.com;M;Matemático;Secundaria;75;3324
+242;26575426;Brad-Payne;722-6080-94;b.payne@randatmail.com;M;Mecánico;Secundaria;24;1034
+243;19798543;Agata-Reed;691-4817-99;a.reed@randatmail.com;F;Científico;Doctorado;81;3619
+244;31320368;Melissa-Gray;535-3396-07;m.gray@randatmail.com;M;Ingeniero;Primario;67;2692
+245;21348527;Honey-Kelly;311-0988-85;h.kelly@randatmail.com;M;Agrónomo;Maestría;26;2745
+246;25488923;Carl-Ferguson;072-0307-95;c.ferguson@randatmail.com;M;Mecánico;Maestría;99;5195
+247;35511345;Kelsey-Wilson;195-0748-81;k.wilson@randatmail.com;F;Diseñador De Interiores;Secundaria;84;3585
+248;31962202;Madaline-Rogers;679-1044-54;m.rogers@randatmail.com;M;Meteorólogo;Secundaria;43;1428
+249;28429760;Bruce-Murray;276-1175-10;b.murray@randatmail.com;M;Cocinar;Maestría;30;3573
+250;26939040;Joyce-Montgomery;825-2912-37;j.montgomery@randatmail.com;F;Contador;Doctorado;20;3401
+251;19668282;Adam-Ellis;427-0100-92;a.ellis@randatmail.com;M;Diseñador De Interiores;Secundaria;44;2317
+252;20865689;Eric-Hawkins;198-8171-07;e.hawkins@randatmail.com;M;Arqueólogo;Secundaria;32;2865
+253;23708512;Naomi-Harrison;979-0237-81;n.harrison@randatmail.com;F;Mecánico;Doctorado;89;5366
+254;30323540;Fiona-Parker;305-8324-15;f.parker@randatmail.com;F;Compositor;Secundaria;37;2124
+255;27971833;Dale-Andrews;007-6630-68;d.andrews@randatmail.com;M;Conductor;Secundaria;26;3222
+256;16577874;Maximilian-Smith;842-1005-57;m.smith@randatmail.com;M;Peluquero;Maestría;30;2605
+257;21396757;Tiana-Chapman;169-6592-90;t.chapman@randatmail.com;F;Joyero;Primario;41;2345
+258;16180417;Miller-Warren;028-8232-98;m.warren@randatmail.com;M;Escritor;Secundaria;72;2687
+259;23772709;Sarah-Payne;325-8397-46;s.payne@randatmail.com;F;Veterinario;Secundaria;95;4894
+260;29957121;Adam-Morgan;463-0994-77;a.morgan@randatmail.com;F;Periodista;Doctorado;76;1472
+261;23751119;Lilianna-Alexander;339-8224-99;l.alexander@randatmail.com;F;Bombero;Secundaria;53;3875
+262;24484951;Melanie-Clark;890-9878-48;m.clark@randatmail.com;F;Bioquímico;Secundaria;76;1349
+263;17916920;Justin-Wright;787-9645-01;j.wright@randatmail.com;M;Manager;Secundaria;31;5189
+264;33163911;Jared-Thomas;089-8045-89;j.thomas@randatmail.com;F;Actor;Secundaria;97;3039
+265;17288965;Harold-Dixon;873-2675-72;h.dixon@randatmail.com;M;Profesor;Secundaria;73;5048
+266;31715126;Freddie-Phillips;546-4997-70;f.phillips@randatmail.com;F;Diseñador Grafico;Secundaria;53;1281
+267;26970392;Rafael-Casey;643-4887-07;r.casey@randatmail.com;M;Conductor;Doctorado;74;4669
+268;29819967;Jessica-Thomas;674-7359-96;j.thomas@randatmail.com;M;Conductor;Secundaria;49;1492
+269;22638421;Frederick-Scott;342-9464-29;f.scott@randatmail.com;M;Diseñador Grafico;Primario;78;1965
+270;28890940;Charlie-Morris;513-0990-43;c.morris@randatmail.com;M;Manager;Maestría;28;4511
+271;26833597;Melanie-Warren;326-0157-83;m.warren@randatmail.com;F;Profesor;Primario;69;2435
+272;19023408;Aston-Perry;642-1879-33;a.perry@randatmail.com;F;Floristaa;Maestría;4;4840
+273;34384349;Jordan-Williams;834-9135-16;j.williams@randatmail.com;M;Vendedor;Doctorado;18;4472
+274;22284610;Amber-Adams;950-9983-57;a.adams@randatmail.com;M;Arqueólogo;Secundaria;13;4453
+275;19664038;Alexander-Richardson;945-7587-57;a.richardson@randatmail.com;M;Floristaa;Primario;1;1079
+276;23621963;Eddy-Murray;212-0317-75;e.murray@randatmail.com;M;Diseñador De Moda;Doctorado;87;2269
+277;32426005;Jessica-Kelley;520-0515-78;j.kelley@randatmail.com;F;Cocinar;Doctorado;82;4120
+278;17293527;Heather-Walker;762-9952-41;h.walker@randatmail.com;F;Medicoo;Primario;68;2501
+279;31700432;Alexander-Kelly;027-2231-77;a.kelly@randatmail.com;M;Actor;Secundaria;16;1442
+280;32472571;Gianna-Hall;013-1866-47;g.hall@randatmail.com;M;Profesor;Maestría;41;1783
+281;31874151;Rebecca-Wilson;039-7941-24;r.wilson@randatmail.com;F;Ingeniero;Maestría;1;1898
+282;17977071;Walter-Farrell;100-9365-50;w.farrell@randatmail.com;M;Asegurador;Maestría;67;5364
+283;15948247;Fenton-Baker;447-1089-02;f.baker@randatmail.com;M;Botánico;Primario;33;3380
+284;31287336;Anna-Martin;825-3416-15;a.martin@randatmail.com;F;Programador;Primario;73;5307
+285;17555133;Florrie-Wells;533-9315-80;f.wells@randatmail.com;M;Actor;Doctorado;45;1618
+286;20784805;Fiona-Kelley;702-6883-20;f.kelley@randatmail.com;F;Veterinario;Secundaria;63;3823
+287;23806753;Hailey-Casey;127-8842-88;h.casey@randatmail.com;F;Cantante;Secundaria;89;4879
+288;17620483;Alberta-Sullivan;782-7625-66;a.sullivan@randatmail.com;M;Piloto De Avion;Secundaria;23;1131
+289;31741464;Edwin-Carroll;190-1699-06;e.carroll@randatmail.com;F;Auditor;Doctorado;12;2710
+290;27504841;Emma-Rogers;409-2654-03;e.rogers@randatmail.com;M;Diseñador De Interiores;Secundaria;82;3290
+291;30055549;Amelia-Martin;477-6637-77;a.martin@randatmail.com;F;Economistaa;Maestría;18;2048
+292;17031250;James-Henderson;726-7078-56;j.henderson@randatmail.com;F;Escritor;Secundaria;1;2187
+293;32972260;Deanna-Stewart;357-9885-15;d.stewart@randatmail.com;F;Diseñador De Moda;Primario;89;4491
+294;31054012;Stella-Warren;148-3379-56;s.warren@randatmail.com;M;Peluquero;Primario;1;3283
+295;18229715;Dainton-Scott;147-0189-57;d.scott@randatmail.com;M;Compositor;Secundaria;46;3614
+296;33862522;Rafael-Sullivan;416-4245-66;r.sullivan@randatmail.com;M;Carpintero;Secundaria;81;4337
+297;17439775;Eddy-Williams;840-1283-35;e.williams@randatmail.com;M;Electricista;Secundaria;60;4105
+298;28237069;Frederick-Myers;287-2353-84;f.myers@randatmail.com;F;Abogado;Doctorado;43;2829
+299;15154178;Miranda-Hill;897-6189-37;m.hill@randatmail.com;F;Panadero;Secundaria;1;1702
+300;26025065;Freddie-Clark;948-2799-17;f.clark@randatmail.com;M;Abogado;Secundaria;75;5012
+301;23666420;Eleanor-Richardson;061-0282-02;e.richardson@randatmail.com;M;Mecánico;Secundaria;51;1649
+302;33549921;Gianna-Cameron;263-7623-64;g.cameron@randatmail.com;M;Meteorólogo;Secundaria;45;2543
+303;21103452;Kelsey-Holmes;031-0761-75;k.holmes@randatmail.com;F;Oficial De Policía;Secundaria;30;4702
+304;22897930;Adam-Johnston;992-0281-08;a.johnston@randatmail.com;M;Cocinar;Secundaria;97;3637
+305;27196180;Derek-Thomas;598-6061-51;d.thomas@randatmail.com;M;Peluquero;Maestría;21;2114
+306;32840473;Marcus-Morris;158-5710-93;m.morris@randatmail.com;M;Piloto De Avion;Maestría;78;3372
+307;34879299;Carlos-Myers;826-2331-17;c.myers@randatmail.com;M;Farmacéutico;Secundaria;69;4355
+308;19684826;Alexia-Gibson;668-5362-13;a.gibson@randatmail.com;F;Contador;Secundaria;88;2659
+309;20767528;Tess-Thompson;343-4136-87;t.thompson@randatmail.com;F;Abogado;Primario;49;4002
+310;26684242;Leonardo-Foster;245-5558-56;l.foster@randatmail.com;M;Farmacéutico;Doctorado;41;2405
+311;33220309;Kirsten-Baker;811-3208-96;k.baker@randatmail.com;F;Panadero;Secundaria;64;2492
+312;29785511;Chloe-Casey;174-5082-43;c.casey@randatmail.com;F;Productor;Secundaria;95;2008
+313;17841995;Edward-Martin;529-2242-07;e.martin@randatmail.com;M;Joyero;Secundaria;100;3339
+314;33625624;Carina-Crawford;452-1055-00;c.crawford@randatmail.com;F;Diseñador De Interiores;Maestría;45;3940
+315;17326273;Arianna-Russell;207-4584-60;a.russell@randatmail.com;F;Panadero;Secundaria;100;2884
+316;32415955;Anna-Higgins;218-2280-78;a.higgins@randatmail.com;M;Agrónomo;Primario;52;5160
+317;25920829;Melissa-Mason;543-2541-65;m.mason@randatmail.com;F;Contador;Doctorado;50;2252
+318;26268308;Ashton-Nelson;521-8459-34;a.nelson@randatmail.com;M;Meteorólogo;Primario;79;4331
+319;16497581;Oliver-Stevens;901-4707-14;o.stevens@randatmail.com;M;Auditor;Secundaria;87;1289
+320;27166035;Audrey-Perry;082-9272-72;a.perry@randatmail.com;F;Científico;Secundaria;1;4947
+321;24907897;Roman-Holmes;135-2767-93;r.holmes@randatmail.com;F;Auditor;Doctorado;12;4851
+322;18834104;Roland-Dixon;404-5055-56;r.dixon@randatmail.com;M;Actor;Secundaria;13;5394
+323;18911721;Preston-Hamilton;302-0972-99;p.hamilton@randatmail.com;F;Farmacéutico;Primario;94;2113
+324;20991988;Lyndon-Walker;234-9686-61;l.walker@randatmail.com;M;Astrónomo;Primario;78;1593
+325;17483226;Caroline-Harris;110-2442-51;c.harris@randatmail.com;M;Escritor;Doctorado;19;1505
+326;17760537;Justin-Murphy;635-5578-87;j.murphy@randatmail.com;M;Economistaa;Maestría;70;4204
+327;24492028;George-Elliott;997-8394-60;g.elliott@randatmail.com;M;Oficial De Policía;Primario;45;1968
+328;30273198;Leonardo-Jones;412-3654-80;l.jones@randatmail.com;M;Actor;Secundaria;64;2424
+329;20810511;Alan-Hall;753-7160-91;a.hall@randatmail.com;M;Contador;Doctorado;51;2815
+330;31831392;Evelyn-Hunt;452-3407-94;e.hunt@randatmail.com;M;Abogado;Secundaria;23;2851
+331;32222376;Brianna-Holmes;553-8088-68;b.holmes@randatmail.com;F;Conductor;Secundaria;22;1932
+332;23391959;Kate-Smith;947-2831-16;k.smith@randatmail.com;F;Productor;Maestría;95;1312
+333;34050856;Miller-Jones;517-8941-32;m.jones@randatmail.com;M;Trabajador Social;Maestría;64;2661
+334;25544290;Sophia-Foster;951-5815-75;s.foster@randatmail.com;F;Químico;Doctorado;66;1650
+335;26694753;Caroline-Richards;682-7964-79;c.richards@randatmail.com;M;Medicoo;Doctorado;80;3617
+336;19936649;Violet-Perry;295-1392-70;v.perry@randatmail.com;F;Panadero;Secundaria;24;3178

@@ -1,0 +1,97 @@
+id producto;Descripcion Abreviada ;Tamano ;Empaque ;Embalaje;Garantia ;Peso Lb;Dimensiones Cm
+1;Laminadora;Extra;Terciario;icopor;Si;3;1
+2;Dispositivo;Mediano;Secundario;Carton;No;1;2
+3;Control;Mediano;Primario;Carton;Si;5;3
+4;Monitor;Pequeño ;Primario;Papel;Si;3;3
+5;Linterna;Mediano;Primario;Plástico ;Si;3;8X10X10
+6;Máscara;Pequeño ;Secundario;Carton;No;3;1X10X20
+7;Estropajo;Grande;Terciario;Papel;No;1;5X20X30
+8;Olla;Grande;Secundario;Papel;Si;1;5X20X30
+9;Taza;Pequeño ;Primario;icopor;No;2;1X10X20
+10;Humidificador;Mediano;Terciario;Papel;No;2;8X10X10
+11;Amazon;Extra;Primario;Papel;Si;2;10X20X30
+12;Airbar;Grande;Secundario;Plástico ;Si;5;5X20X30
+13;Cargador;Grande;Primario;Papel;Si;4;5X20X30
+14;Extensor;Grande;Primario;Plástico ;No;1;5X20X30
+15;Impresora;Extra;Primario;Carton;Si;2;10X20X30
+16;Enchufe;Grande;Primario;Plástico ;No;5;5X20X30
+17;Espejo;Grande;Terciario;icopor;No;3;5X20X30
+18;Alimentador;Grande;Terciario;Plástico ;Si;1;5X20X30
+19;Disco;Grande;Primario;Papel;No;1;5X20X30
+20;Kit;Extra;Primario;Papel;No;4;10X20X30
+21;Auriculares;Mediano;Secundario;Plástico ;Si;3;8X10X10
+22;Termo;Mediano;Primario;icopor;Si;5;8X10X10
+23;Apple;Extra;Primario;Carton;No;2;10X20X30
+24;Balanza;Mediano;Primario;Carton;No;4;8X10X10
+25;Timbre;Pequeño ;Secundario;icopor;Si;2;1X10X20
+26;Gopro;Pequeño ;Secundario;Carton;Si;4;1X10X20
+27;Olla;Pequeño ;Primario;Papel;Si;3;1X10X20
+28;Cargador;Extra;Secundario;Carton;Si;4;10X20X30
+29;Difusor;Mediano;Terciario;icopor;No;1;8X10X10
+30;Router;Grande;Primario;Plástico ;No;5;5X20X30
+31;Imán;Mediano;Secundario;icopor;Si;3;8X10X10
+32;Almohadilla;Pequeño ;Terciario;icopor;No;3;1X10X20
+33;Tablet;Grande;Secundario;Carton;Si;3;5X20X30
+34;Carcasa;Grande;Terciario;Papel;No;1;5X20X30
+35;Termómetro;Grande;Primario;Papel;No;1;5X20X30
+36;Kit;Pequeño ;Terciario;icopor;No;4;1X10X20
+37;Roomba;Pequeño ;Secundario;Plástico ;No;3;1X10X20
+38;Balanza;Grande;Secundario;icopor;No;5;5X20X30
+39;Teclado;Extra;Terciario;icopor;No;1;10X20X30
+40;Roku;Extra;Terciario;Plástico ;No;3;10X20X30
+41;Arenero;Grande;Terciario;Plástico ;Si;5;5X20X30
+42;Speaker;Extra;Primario;Plástico ;No;3;10X20X30
+43;Termómetro;Pequeño ;Primario;icopor;No;4;1X10X20
+44;Batería;Grande;Secundario;Plástico ;Si;4;5X20X30
+45;Calentador;Extra;Terciario;Papel;No;1;10X20X30
+46;Audífonos;Mediano;Primario;Papel;Si;4;8X10X10
+47;Termostato;Grande;Secundario;Papel;Si;4;5X20X30
+48;Dash;Extra;Primario;icopor;No;4;10X20X30
+49;Braava;Mediano;Primario;Plástico ;No;2;8X10X10
+50;Alfombrilla;Grande;Terciario;Carton;No;3;5X20X30
+51;Almohada;Pequeño ;Primario;Papel;No;5;1X10X20
+52;Detector;Extra;Secundario;Papel;No;3;10X20X30
+53;Mouse;Mediano;Primario;Carton;No;3;8X10X10
+54;Purificador;Extra;Secundario;Papel;Si;1;10X20X30
+55;Gps;Extra;Secundario;Papel;No;4;10X20X30
+56;Google;Grande;Primario;Carton;No;1;5X20X30
+57;Case;Pequeño ;Secundario;Carton;No;4;1X10X20
+58;Hub;Extra;Primario;Carton;Si;1;10X20X30
+59;Soporte;Grande;Secundario;Carton;No;3;5X20X30
+60;Bolígrafo;Extra;Primario;Carton;No;2;10X20X30
+61;Kit;Grande;Primario;Papel;Si;2;5X20X30
+62;Amazon;Pequeño ;Primario;icopor;Si;1;1X10X20
+63;Máquina;Grande;Secundario;icopor;Si;4;5X20X30
+64;Papelera;Pequeño ;Secundario;Papel;No;5;1X10X20
+65;Control;Grande;Secundario;Carton;No;2;5X20X30
+66;Aro;Mediano;Terciario;Carton;Si;4;8X10X10
+67;Antena;Grande;Terciario;Plástico ;Si;5;5X20X30
+68;Olla;Pequeño ;Terciario;Carton;No;1;1X10X20
+69;Cámara;Grande;Terciario;Plástico ;No;2;5X20X30
+70;Detector;Pequeño ;Primario;icopor;No;4;1X10X20
+71;Tetera;Mediano;Primario;Carton;No;1;8X10X10
+72;Cable;Pequeño ;Secundario;Plástico ;No;1;1X10X20
+73;Soporte;Grande;Primario;Papel;Si;3;5X20X30
+74;Secadora;Grande;Secundario;Carton;No;2;5X20X30
+75;Cojín;Extra;Primario;icopor;No;3;10X20X30
+76;Escáner;Grande;Secundario;icopor;No;2;5X20X30
+77;Trituradora;Pequeño ;Secundario;Carton;No;1;1X10X20
+78;Cepillo;Pequeño ;Primario;Papel;No;4;1X10X20
+79;Fitbit;Pequeño ;Primario;icopor;No;2;1X10X20
+80;Teclado;Extra;Terciario;icopor;No;2;10X20X30
+81;Jardín;Pequeño ;Terciario;Plástico ;No;3;1X10X20
+82;Termómetro;Extra;Primario;Plástico ;Si;4;10X20X30
+83;Cable;Extra;Primario;icopor;No;3;10X20X30
+84;Asistente;Grande;Terciario;icopor;No;3;5X20X30
+85;Guantes;Extra;Primario;Plástico ;No;3;10X20X30
+86;Apple;Pequeño ;Terciario;Plástico ;Si;4;1X10X20
+87;Estación;Mediano;Primario;Papel;Si;3;8X10X10
+88;Maleta;Extra;Secundario;Papel;Si;5;10X20X30
+89;Cafetera;Grande;Primario;icopor;No;4;5X20X30
+90;Teclado;Extra;Primario;Papel;Si;5;10X20X30
+91;Brazalete;Mediano;Primario;Papel;Si;4;8X10X10
+92;Kindle;Pequeño ;Secundario;icopor;No;1;1X10X20
+93;Soporte;Grande;Terciario;icopor;Si;4;5X20X30
+94;Cargador;Mediano;Secundario;Carton;Si;2;8X10X10
+95;Google;Extra;Terciario;Papel;Si;2;10X20X30
+96;Impresora;Mediano;Secundario;icopor;Si;4;8X10X10
