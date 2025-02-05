@@ -23,7 +23,7 @@ optimizar las ventas.
 El informe abarcará datos históricos y actuales disponibles, con un enfoque en la recopilación, análisis 
 y visualización de datos para cada una de las áreas mencionadas. Se utilizará el método entidadrelación de cada una de las listas de tablas que puedan informar decisiones empresariales.
 
-##### Dataset 
+## Dataset 
 Inserción de datos Bases: Pasos para insertar datos en MySQL mediante importación.
 Paso 1: Cambio de formato de Excel a CSV
 1. Abrir el archivo Excel: Abre el archivo Excel que contiene las tablas que deseas importar.
