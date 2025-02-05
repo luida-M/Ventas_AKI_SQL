@@ -30,12 +30,13 @@ Paso 1: Cambio de formato de Excel a CSV
 2. Guardar como CSV: Guarda cada hoja de Excel como un archivo CSV. Para hacerlo, selecciona 
 Archivo > Guardar como y elige el formato CSV (delimitado por comas) (*.csv). 
 ­ Tablas a convertir: Clientes, medios_de_pago, Producto, Territorio, Vendedor y Ventas.
+
+## Informe del Proyecto AKI:
+Documento en PDF.
+
+Enalce:  https://drive.google.com/file/d/1CoWgMnXwXvqhjD5eZppXlA_FJYrdNFtT/view?usp=sharing
    
 ## Tablas de BD excel:
    ```bash
    Url: https://drive.google.com/drive/folders/1xX0TU_VXskTkaCV8lj74uz4FhUVk_oOZ?usp=sharing
 
-
-### Informe del Proyecto AKI en PDF:
-   ```bash
-   Url: https://drive.google.com/file/d/1CoWgMnXwXvqhjD5eZppXlA_FJYrdNFtT/view?usp=sharing
