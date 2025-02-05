@@ -21,7 +21,11 @@ optimizar las ventas.
 
 ## Alcance
 El informe abarcará datos históricos y actuales disponibles, con un enfoque en la recopilación, análisis 
-y visualización de datos para cada una de las áreas mencionadas. Se utilizará el método entidadrelación de cada una de las listas de tablas que puedan informar decisiones empresariales.
+y visualización de datos para cada una de las áreas mencionadas. Se utilizará el método entidad relación de cada una de las listas de tablas que puedan informar decisiones empresariales.
+
+## Informe del Proyecto AKI en PDF:
+   ```bash
+   Url: https://drive.google.com/file/d/1CoWgMnXwXvqhjD5eZppXlA_FJYrdNFtT/view?usp=sharing
 
 ## Dataset 
 Inserción de datos Bases: Pasos para insertar datos en MySQL mediante importación.
