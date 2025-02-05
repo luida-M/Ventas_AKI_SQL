@@ -8,9 +8,9 @@
 
 #### Informe de análisis de datos Maximización de ganancias y optimización de ventas de la empresa AKI
 
-• #### Proyecto: Ventas de la empresa Aki
-• #### Usuario final: Gerente general de Aki
-• #### Nivel de aplicación: Táctico, operativo y estratégico
+ #### • Proyecto: Ventas de la empresa Aki
+ #### • Usuario final: Gerente general de Aki
+ #### • Nivel de aplicación: Táctico, operativo y estratégico
 
 ## Objetivo
 El objetivo de este proyecto es analizar diversos aspectos del negocio para identificar áreas de mejora y 
