@@ -23,10 +23,6 @@ optimizar las ventas.
 El informe abarcará datos históricos y actuales disponibles, con un enfoque en la recopilación, análisis 
 y visualización de datos para cada una de las áreas mencionadas. Se utilizará el método entidad relación de cada una de las listas de tablas que puedan informar decisiones empresariales.
 
-## Informe del Proyecto AKI en PDF:
-   ```bash
-   Url: https://drive.google.com/file/d/1CoWgMnXwXvqhjD5eZppXlA_FJYrdNFtT/view?usp=sharing
-
 ## Dataset 
 Inserción de datos Bases: Pasos para insertar datos en MySQL mediante importación.
 Paso 1: Cambio de formato de Excel a CSV
@@ -38,3 +34,8 @@ Archivo > Guardar como y elige el formato CSV (delimitado por comas) (*.csv).
 ## Tablas de BD excel:
    ```bash
    Url: https://drive.google.com/drive/folders/1xX0TU_VXskTkaCV8lj74uz4FhUVk_oOZ?usp=sharing
+
+
+### Informe del Proyecto AKI en PDF:
+   ```bash
+   Url: https://drive.google.com/file/d/1CoWgMnXwXvqhjD5eZppXlA_FJYrdNFtT/view?usp=sharing
