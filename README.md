@@ -6,7 +6,7 @@
 
 ## Versión: 1.0
 
-#### Informe de análisis de datos Maximización de ganancias y optimización de ventas de la empresa AKI
+## Informe de análisis de datos Maximización de ganancias y optimización de ventas de la empresa AKI
 
  #### • Proyecto: Ventas de la empresa Aki
  #### • Usuario final: Gerente general de Aki
