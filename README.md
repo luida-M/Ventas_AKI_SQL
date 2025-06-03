@@ -1,11 +1,3 @@
-# PROYECTO FINAL SQL
-
-#### Comisión: 71935
-
-#### Alumno: Luida Medina
-
-## Versión: 1.0
-
 ## Informe de análisis de datos Maximización de ganancias y optimización de ventas de la empresa AKI
 
  #### • Proyecto: Ventas de la empresa Aki
