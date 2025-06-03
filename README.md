@@ -23,6 +23,17 @@ Paso 1: Cambio de formato de Excel a CSV
 Archivo > Guardar como y elige el formato CSV (delimitado por comas) (*.csv). 
 ­ Tablas a convertir: Clientes, medios_de_pago, Producto, Territorio, Vendedor y Ventas.
 
+## Resumen Ejecutivo:
+Este proyecto se enfoca en el análisis de datos de ventas para la empresa AKI, utilizando **SQL** para realizar consultas complejas y extraer información valiosa de grandes volúmenes de datos. El análisis incluye:
+
+* **Extracción y búsqueda de datos:** Uso de SQL para realizar consultas avanzadas que permiten obtener información crítica sobre ventas, productos y clientes.
+* **Transformación de datos:** Procesamiento y limpieza de datos para prepararlos para el análisis.
+* **Análisis exploratorio:** Exploración de los datos para identificar tendencias clave y patrones que impactan las ganancias.
+* **Visualizaciones de ventas:** Creación de visualizaciones interactivas para identificar productos más rentables, temporadas de mayor demanda y otros factores que influyen en las decisiones comerciales.
+* **Recomendaciones de optimización:** Basado en los hallazgos, se ofrecen sugerencias para optimizar las ventas y maximizar las ganancias.
+
+Este proyecto proporciona a AKI una base sólida de datos que facilita la toma de decisiones estratégicas y permite mejorar su eficiencia comercial mediante la optimización de su cartera de productos y estrategias de venta.
+
 ## Informe del Proyecto AKI:
 Documento en PDF.
 
