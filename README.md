@@ -34,12 +34,12 @@ Este proyecto se enfoca en el análisis de datos de ventas para la empresa AKI, 
 
 Este proyecto proporciona a AKI una base sólida de datos que facilita la toma de decisiones estratégicas y permite mejorar su eficiencia comercial mediante la optimización de su cartera de productos y estrategias de venta.
 
-## Informe del Proyecto AKI:
+# Enlaces:
 Documento en PDF.
 
 Enalce:  https://drive.google.com/file/d/1CoWgMnXwXvqhjD5eZppXlA_FJYrdNFtT/view?usp=sharing
    
-## Tablas de BD excel:
+# Tablas de BD excel:
    ```bash
    Url: https://drive.google.com/drive/folders/1xX0TU_VXskTkaCV8lj74uz4FhUVk_oOZ?usp=sharing
 
